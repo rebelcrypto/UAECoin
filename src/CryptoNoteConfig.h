@@ -73,7 +73,7 @@ const char     MINER_CONFIG_FILE_NAME[]                      = "miner_conf.json"
 } // parameters
 
 //TODO Put here the name of your currency
-const char     CRYPTONOTE_NAME[]                             = "Memcoin";
+const char     CRYPTONOTE_NAME[]                             = "UAECoin";
 const char     GENESIS_COINBASE_TX_HEX[]                     = "013c01ff0001c08f8af8ae5f029b2e4c0281c0b02e7c53291a94d1d0cbff8883f8024f5142ee494ffbbd08807121019db0f1593c2167fba7c0c3ca1e1f9e7ef09685193e67ef43b2fba87a716bbe89";
 
 const uint8_t  CURRENT_TRANSACTION_VERSION                   =  1;
